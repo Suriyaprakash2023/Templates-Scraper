@@ -27,7 +27,7 @@ pip install requests beautifulsoup4
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/template-scraper.git
+   git clone https://github.com/Suriyaprakash2023/Templates-Scraper.git
    cd template-scraper
    ```
 
